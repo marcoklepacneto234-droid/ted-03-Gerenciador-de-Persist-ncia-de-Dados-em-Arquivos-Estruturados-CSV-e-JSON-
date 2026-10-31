@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "nome": "João Ferreira",
+    "cidade": "Balsas",
+    "telefone": "99 98801-1234"
+  },
+  {
+    "id": "2",
+    "nome": "Maria Conceição",
+    "cidade": "São Luís",
+    "telefone": "98 99702-5678"
+  },
+  {
+    "id": "3",
+    "nome": "José Araújo",
+    "cidade": "Imperatriz",
+    "telefone": "99 98455-9012"
+  }
+]

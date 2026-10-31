@@ -1,0 +1,4 @@
+[
+  {"id": 1, "nome": "Ana Sousa", "cidade": "Balsas", "tags": ["vip", "novo"]},
+  {"id": 2, "nome": "Pedro Antônio", "cidade": "Carolina", "email": "pedro@exemplo.com"}
+]
